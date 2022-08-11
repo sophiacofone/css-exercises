@@ -1,0 +1,24 @@
+#number_two {
+    color: rgb(0, 247, 255);
+    font-size: 36px;
+  }
+#number_four {
+    background-color: rgb(0, 255, 136);
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+#number_four {
+    background-color: rgb(0, 255, 136);
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+.pink {
+    background-color: rgb(255, 0, 221);
+    font: 'Verdana', 'DejaVu Sans', 'sans-serif'
+}
+
+.pink.extra{
+    font-size: 24px;
+}
