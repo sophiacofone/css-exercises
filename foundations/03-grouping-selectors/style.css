@@ -1,0 +1,14 @@
+.first,
+.second {
+    font-size: 28px;
+    font: 'Helvetica','Times New Roman','sans-serif';
+}
+.first{
+    background-color: aquamarine;
+    color: cornflowerblue;
+}
+
+.second{
+    background-color: olivedrab;
+    color: salmon;
+}
